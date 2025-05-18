@@ -1,5 +1,9 @@
 # CinemAI
 
+![image](https://github.com/user-attachments/assets/d9e2ebab-23fd-400b-813f-8a00c3712dbf)
+
+
+
 [![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)](https://github.com/seu-usuario/seu-repositorio)
 [![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Google_ADK-orange.svg)](https://developers.google.com/assistant/sdk)
